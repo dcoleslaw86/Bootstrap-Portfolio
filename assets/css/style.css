@@ -157,6 +157,10 @@ h2, h3 {
   font-size: 22px;
 }
 
+h3 {
+  opacity: 0.85;
+}
+
 #main-head {
   position: fixed;
   z-index: 99;
